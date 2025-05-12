@@ -30,28 +30,18 @@ Suggestion: Add a small heading like “Why Homeowners Trust Us” between them,
 
 2. Text Alignment and Layout:
 
-The two-column layout is fine, but on larger screens, it might feel a bit stretched.
-
-Consider a maximum width container so the text doesn’t feel too far apart.
-
 Use consistent vertical spacing between title and paragraph for better rhythm.
-
-3. Color Use for Icons:
-
-The bright cyan/blue icons are eye-catching but could feel slightly inconsistent with the brand’s deeper blue and black palette.
-
-Either unify the color palette to match the button CTA blue or soften the icon tones for a more elegant feel.
 
 4. Header Hierarchy Refinement:
 
 The text “Allen County Fence Company” above the main headline feels redundant—it’s already in the logo and throughout the page.
 
-Suggest removing or downplaying it to focus attention on the stronger main message.
+Suggest removing or downplaying it's current color to focus attention on the stronger main message.
 
 ## Optional Enhancements
+
 Micro Animations: You could add subtle hover effects on icons or fade-in on scroll to create engagement without distraction.
 
 Trust Symbol or Badge: Consider placing a “30+ Years of Experience” badge or icon above/below this section for added credibility.
 
 Mobile Responsiveness Check: Make sure the 2x2 layout stacks cleanly into a 1-column format on mobile, with proper spacing between icons and paragraphs.
-

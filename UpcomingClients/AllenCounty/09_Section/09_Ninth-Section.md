@@ -22,7 +22,7 @@ Includes copyright, privacy policy, and sitemap — good for SEO and compliance.
 
 “Website Design & Digital Marketing by Clever Fox Online” is subtle, non-intrusive, and professional.
 
-Suggestions for Improvement
+## Suggestions for Improvement
 
 1. Add a Footer Navigation Menu (if possible):
 
@@ -35,6 +35,8 @@ Help SEO via internal linking
 Increase accessibility for keyboard/tab users
 
 2. Improve City Layout Structure:
+
+Make the icons uniform in alignment, so they look more like a structured bulleted list
 
 The city listing is currently centered and stacked, which is readable but could be easier to scan.
 
