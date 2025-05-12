@@ -17,8 +17,16 @@ Things that jump out at me straight away
 
 ## Suggestions
 
-1. On the page https://www.picketridge.com/elkhart-fence-company/ , the grey to orange section border appears a bit harsh, maybe switching one of the sections, either the top one's background to white, or the image grid bg to white would be a cleaner look, or alternatively some kind of gradient border between them, maybe even a wp border 
+1. On the page https://www.picketridge.com/elkhart-fence-company/ , the grey to orange section border appears a bit harsh, maybe switching one of the sections, either the top one's background to white, or the image grid bg to white would be a cleaner look, or alternatively some kind of gradient border between them, maybe even a wp border
+
+2. The image gallery gap on https://www.picketridge.com/composite-fence-installation/ or any of the pages that have the gallery, tightening up the px gap on the gallery itself, looks like it's 
+```
+--hgap: 57px;
+--vgap: 57px; 
+```
+
+Tightening it to 24px gap may look cleaner, but also may be tied to other grid gallery gap spacing on that same page.. if one gallery gap spacing is lessened, the other one on the page may need to follow suit to match?
 
 ## Styling Discrepancy
 
-On the https://www.picketridge.com/wood-fence-installation/#staining page, below the h2 'Wood Fence Photo Gallery' that button is missing the border color change hover effect
+On the https://www.picketridge.com/wood-fence-installation/#staining page, below the h2 'Wood Fence Photo Gallery' and above the grid image gallery, that button is missing the black border color change hover effect

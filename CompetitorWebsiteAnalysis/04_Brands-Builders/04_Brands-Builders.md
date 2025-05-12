@@ -10,6 +10,16 @@
 
 - **CMS-like Functionality: Yes, but abstracted away behind a visual interface — users don't code directly.**
 
+## Initial Impressions
+
+- Heavy use of background images in places where you'd normally put semantic html tags, h2's, h3's etc..
+
+- The instant fence estimate image / graphic design of the iPhone screens layered on top of one another is a cool effect
+
+- They have 60 total FAQ's
+
+- The 'Our Expertise' section on the homepage is using a dark overlay wood background, has a cool effect and makes the foreground text really pop out
+
 ## The Good
 
 - Strong hero container text, 'Quality Fence Solutions You Can Trust - Acadiana's Stronger Choice' is short and to the point, sets the tone of the webpage
@@ -21,13 +31,3 @@
 ## The Bad
 
 - The sidenav has some strange spacing, not sure if that was their intended effect, but it may have been a more complete look if they included their logo within the side nav drawer along with maybe a yellow accent of some kind as well
-
-## Initial Impressions
-
-- Heavy use of background images in places where you'd normally put semantic html tags, h2's, h3's etc..
-
-- The instant fence estimate image / graphic design of the iPhone screens layered on top of one another is a cool effect
-
-- They have 60 total FAQ's
-
-- The 'Our Expertise' section on the homepage is using a dark overlay wood background, has a cool effect and makes the foreground text really pop out
