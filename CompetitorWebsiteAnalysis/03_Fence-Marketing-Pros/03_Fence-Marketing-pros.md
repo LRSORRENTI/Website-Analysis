@@ -2,7 +2,7 @@
 
 ## First impressions
 
-Appears to be using WordPress, pretty simplistic clean design, most pages follow a very uniform design strategy, use of a main hero image with h1 or h2 overlayed over, then below they utilize a checkerboard layout pattern usually providing a background offset div behind each main section image
+**Appears to be using WordPress, pretty simplistic clean design, most pages follow a very uniform design strategy, use of a main hero image with h1 or h2 overlayed over, then below they utilize a checkerboard layout pattern usually providing a background offset div behind each main section image**
 
 ## The Good 
 
