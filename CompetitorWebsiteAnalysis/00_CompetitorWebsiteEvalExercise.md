@@ -1,4 +1,4 @@
-# Here is the list of site to evaluate:
+# Here is the list of sites to evaluate:
 
 - Clever Fox Project: https://www.picketridge.com/
 
