@@ -2,7 +2,7 @@
 
 ## First impressions
 
-**Looking under the hood it looks like it's not wordpress, it is linking to Bootstrap CDN, need to verify that**
+Looking under the hood it looks like it's not wordpress, it's linking to Bootstrap CDN, need to verify that
 
 ## The Good
 

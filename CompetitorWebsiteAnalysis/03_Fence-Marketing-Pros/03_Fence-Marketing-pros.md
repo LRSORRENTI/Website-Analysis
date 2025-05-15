@@ -29,3 +29,5 @@ This appears to be the same tool CleverFox uses for some of it's clients EX: htt
 
 - Some of the line-height for h2's is a bit too much I think EX: on this page https://www.chesterfieldfencingandmore.com/virginia-beach/gallery/
   Scrolling down to the 'Schedule your free' 'Estimate today', using 2rem or 35px line height is a cleaner look
+
+- On some of the FAQ's like on this page https://www.chesterfieldfencingandmore.com/gate-installation/ when you toggle an FAQ item the background image zooms in and out, could be better visually if that didn't occur
