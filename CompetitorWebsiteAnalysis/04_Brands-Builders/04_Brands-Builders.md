@@ -12,7 +12,7 @@
 
 ## Initial Impressions
 
-- Heavy use of background images in places where you'd normally put semantic html tags, h2's, h3's etc..
+- Heavy use of background images in places where you'd normally put semantic html tags, h2's, h3's etc. For ex they have a large arrow image with text within it, beneath it is another image with text overlayed on the page
 
 - The instant fence estimate image / graphic design of the iPhone screens layered on top of one another is a cool effect
 
@@ -31,3 +31,7 @@
 ## The Bad
 
 - The sidenav has some strange spacing, not sure if that was their intended effect, but it may have been a more complete look if they included their logo within the side nav drawer along with maybe a yellow accent of some kind as well
+
+- Their use of border radius is inconsistent, usually when corners are going from rounded to normal on buttons or containers it creates a visual clash
+
+- 

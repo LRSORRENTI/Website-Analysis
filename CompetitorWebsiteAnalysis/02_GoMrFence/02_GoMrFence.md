@@ -19,6 +19,8 @@
 
 - Their of use of vimeo embed integrates nicely given their color palette, vimeo embeds in general have a clean look and their positioning of these elements next to text blocks are solidly designed EX on this page: https://gomrfence.com/fences/aluminum-fences/
 
+- Contact form structure is clean, it's displayed in a slightly darker grey container, the form input fields are spaced out nicely within the body of the container
+
 ## The bad
 
 - The 'areas we serve toggle' beneath the three column info section seems a bit visually lost, I think for UX it's not a great way to display content, I think for older users or visual impaired users that doesn't work well
@@ -33,3 +35,7 @@ Evansville, IN 47715
 ```
 
 - Some general inconsistencies in the 'Instant Fence Estimator, Frequently Asked Questions, and Talk to the Fence Pros!' some text elements are left aligned, some are center aligned, this creates a disharmony in the design of the section, and actually on the https://gomrfence.com/testimonials/ page they address this issue, all of the above are text-align center
+
+## Functionality overview
+
+- They're using mysalesman fence estimate tool
