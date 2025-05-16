@@ -28,10 +28,14 @@
 
 - Their blog posts seem varied EX: Dog Fence Recommendations From a Top Lafayette, Louisiana Fence Company, this kind of content alongside the more traditional fencing material & style posts is a way to grab visitor's attention
 
+- Some of their graphic designs are nice, EX on this page https://www.jackfencing.com/resources/warranty the globe and warranty shield, the globe has a cool glow effect around it
+
 ## The Bad
 
 - The sidenav has some strange spacing, not sure if that was their intended effect, but it may have been a more complete look if they included their logo within the side nav drawer along with maybe a yellow accent of some kind as well
 
-- Their use of border radius is inconsistent, usually when corners are going from rounded to normal on buttons or containers it creates a visual clash
+- Their use of border radius is inconsistent, usually when corners are going from rounded to normal on buttons or containers it creates a small visual clash, an EX is on this page: https://www.jackfencing.com/resources/payments scrolling down you'll notice the three cards 'Check or cash', 'Major credit cards', 'venmo' have a border radius of 20px on all sides but the buttons within have no border-radius, I think it's a small critique, might not be that big of an issue
 
-- 
+- On this page: https://www.jackfencing.com/resources/photo-gallery if you press on one of the categories there's not much visual feedback other than a content change, applying an underline or a different color if you press 'vinyl' or 'wood' or whichever category is better UX
+
+- On this page https://www.jackfencing.com/company/about-us the 'Accountable' card wraps the 'e' onto a new line, this would look better without the line wrap for that character
