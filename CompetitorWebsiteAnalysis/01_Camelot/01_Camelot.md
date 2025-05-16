@@ -4,7 +4,7 @@
 
 - It's using GoDaddy website builder based on the meta data:
 
-```
+```html
 <meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 8.0.0000">
 ```
 
@@ -14,7 +14,9 @@
 
 - The topmost section of the https://mhfenceco.com/fence-permits page looks okay, the numbered list items could use a bit of individual padding or gap, but the section beneath listing city permit info is a bit long on desktop, splitting that into multiple columns on tablet & desktop would clean the look of that long list a bit
 
-- The top nav and sidebar nav on mobile look decent,
+- The top nav and sidebar nav on mobile look decent
+
+- The tablet & desktop views for most of the pages feel a bit neglected, maybe a mobile first paradigm gone too far situation?
 
 ## The Bad:
 

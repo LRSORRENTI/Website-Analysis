@@ -2,7 +2,18 @@
 
 ## First impressions
 
-Looking under the hood it looks like it's not wordpress, it's linking to Bootstrap CDN, need to verify that
+Looking under the hood it looks like it's not wordpress, it's linking to Bootstrap CDN, also using Jquery:
+
+```html
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+  crossorigin="anonymous"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js"></script>
+```
 
 ## The Good
 
@@ -21,6 +32,10 @@ Looking under the hood it looks like it's not wordpress, it's linking to Bootstr
 
 - Contact form structure is clean, it's displayed in a slightly darker grey container, the form input fields are spaced out nicely within the body of the container
 
+- The https://gomrfence.com/faqs/ page is well structured, clean layout, easy to sort through and filter using the left column select, although it becomes a bit of a double-edged sword on desktop as you'll need to scroll all the way back up to view the FAQS
+
+- On the blog pages like https://gomrfence.com/blog/fences/vinyl-fence/best-dog-fence-options-from-a-trusted-indiana-fence-company/?_gl=1%2Ayp2tlz%2A_gcl_au%2AOTYyNTgyNzE0LjE3NDY3MjQ3NzU. the use of category pill tabs under the main blog title is an informative way to quickly attribute descriptors to the blog article
+
 ## The bad
 
 - The 'areas we serve toggle' beneath the three column info section seems a bit visually lost, I think for UX it's not a great way to display content, I think for older users or visual impaired users that doesn't work well
@@ -38,4 +53,4 @@ Evansville, IN 47715
 
 ## Functionality overview
 
-- They're using mysalesman fence estimate tool
+- They're using mysalesman fence estimate tool, seens to be widely used across competitor websites not just DotCom projects

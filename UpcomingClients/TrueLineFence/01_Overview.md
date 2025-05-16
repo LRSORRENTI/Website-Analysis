@@ -19,4 +19,14 @@ https://truelinefencecompany.com/winfield-fence-company/
 &
 https://truelinefencecompany.com/crown-point-fence-company/
 
+## Form Centering:
+
 On this page https://truelinefencecompany.com/fence-types/wood-fence/ the form field seems cut off and not centered within the div or parent element
+
+The contact form on the main page https://truelinefencecompany.com/, would look cleaner if the form elements were centered, and maybe had an additonal padding on all four sides?
+
+I noticed in the footer these links don't have the same hover effect text color change as the other footer items: USEFUL LINKS
+About Us
+Commercial Fence Solutions
+Residential Fence Installation
+Resources

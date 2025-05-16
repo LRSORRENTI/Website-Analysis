@@ -6,14 +6,14 @@
 
 ## Functionality Overview:
 
-They link to a virtual fence builder from all of their '
+They link to a virtual fence builder mysalesman from all of their '
 Get an Instant Estimate' buttons,
 
 EX: https://www.chesterfieldfencingandmore.com/instant-fence-quote-online/
 
 You pin on a map the area around your property, selecting material, color, and height which then output an estimate cost.
 
-This appears to be the same tool CleverFox uses for some of it's clients EX: https://www.allencountyfence.com/fence-estimate/
+This is the tool CleverFox, and a lot of Fencing websites use for some of it's clients EX: https://www.allencountyfence.com/fence-estimate/
 
 ## The Good
 
